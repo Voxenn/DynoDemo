@@ -17,15 +17,15 @@ When the application is loaded, a stock dyno will be run automatically.
 **Note: Let each dyno instance run completely before running a new
 dyno**
 
-![](media/image1.png){width="6.5in" height="3.904861111111111in"}
+![Stock](https://github.com/Voxenn/DynoDemo/blob/master/stock.png)
 
 Stage 1 graph after being run.
 
-![](media/image2.png){width="6.5in" height="3.904861111111111in"}
+![Stage 1](https://github.com/Voxenn/DynoDemo/blob/master/stage1.png)
 
 Stage 2 graph after being run.
 
-![](media/image3.png){width="6.5in" height="3.904861111111111in"}
+![Stage 2](https://github.com/Voxenn/DynoDemo/blob/master/stage2.png)
 
 **Built With**
 
