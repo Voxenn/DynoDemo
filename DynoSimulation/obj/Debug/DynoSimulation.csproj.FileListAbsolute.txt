@@ -1,0 +1,10 @@
+C:\Users\Voxenn\source\repos\DynoSimulation\DynoSimulation\bin\Debug\DynoSimulation.exe.config
+C:\Users\Voxenn\source\repos\DynoSimulation\DynoSimulation\bin\Debug\DynoSimulation.exe
+C:\Users\Voxenn\source\repos\DynoSimulation\DynoSimulation\bin\Debug\DynoSimulation.pdb
+C:\Users\Voxenn\source\repos\DynoSimulation\DynoSimulation\obj\Debug\DynoSimulation.csprojAssemblyReference.cache
+C:\Users\Voxenn\source\repos\DynoSimulation\DynoSimulation\obj\Debug\DynoSimulation.Properties.Resources.resources
+C:\Users\Voxenn\source\repos\DynoSimulation\DynoSimulation\obj\Debug\DynoSimulation.csproj.GenerateResource.cache
+C:\Users\Voxenn\source\repos\DynoSimulation\DynoSimulation\obj\Debug\DynoSimulation.csproj.CoreCompileInputs.cache
+C:\Users\Voxenn\source\repos\DynoSimulation\DynoSimulation\obj\Debug\DynoSimulation.exe
+C:\Users\Voxenn\source\repos\DynoSimulation\DynoSimulation\obj\Debug\DynoSimulation.pdb
+C:\Users\Voxenn\source\repos\DynoSimulation\DynoSimulation\obj\Debug\DynoSimulation.Form1.resources
